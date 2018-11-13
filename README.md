@@ -44,6 +44,8 @@
 #
 ##  getTranslateInfo(t)     获取 translate x,y 坐标
 #
+##  isHasInstallApp(url,fun)     js链接协议跳转到某一个app；url:链接，fun：未安装回调函数
+#
 ##  getQueryString(name)    地址的search字段,当 name 为空时候，返回全部
 #
 ##  extend(targer,[..obj])  对象的扩展，可以用 Object.assign 代替了
