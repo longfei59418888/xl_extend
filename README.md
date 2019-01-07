@@ -55,6 +55,9 @@
 ######  options.mH 最大高度
 ######  options.mW 最大宽度
 ######  options.quality 质量
+#
+##  base64转file文件     convertBase64UrlToBlob(dataUrl)
+
 
 
 
