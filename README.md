@@ -16,6 +16,8 @@
 #
 ##  getTheWeek()        某日是当年的第几周
 #
+##  dealFormatPhone()    手机号添加空格
+#
 ##  formatEllipsis(str,length)  超出后省略号
 #
 ##  formatBankSensitive(NumStr)      银行卡去敏
